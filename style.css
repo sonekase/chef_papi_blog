@@ -49,3 +49,9 @@ li {
 a{
   color: #555753;
 }
+
+a:hover,
+a:focus{
+  text-decoration:underline;
+  color: pink; 
+}
